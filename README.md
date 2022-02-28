@@ -1,2 +1,2 @@
 # Fntastic_1
-Test task 1 for Fntastic
+Test task №1 for Fntastic
